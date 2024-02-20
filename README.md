@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```
-python ai_codesentry.py --directory <path_to_code_directory>
+python main.py --directory <path_to_code_directory>
 ```
 Replace <path_to_code_directory> with the directory containing the code files you want to analyze.
 
