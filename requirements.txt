@@ -1,2 +1,7 @@
 torch
-transformers
+torch-hd
+spacy
+tqdm
+networkx
+matplotlib
+concurrent-log-handler

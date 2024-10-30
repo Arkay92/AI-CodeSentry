@@ -1,0 +1,17 @@
+[
+    {
+        "description": "Insecure function call",
+        "pattern": "eval(", 
+        "severity": "high"
+    },
+    {
+        "description": "Hardcoded password",
+        "pattern": "password =",
+        "severity": "medium"
+    },
+    {
+        "description": "Open network port",
+        "pattern": "socket.open(",
+        "severity": "medium"
+    }
+]
